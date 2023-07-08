@@ -2,7 +2,6 @@
 <h3 align="center">I'm a <b>Web Developer</b> from 🇮🇳 </h3>
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sparshjaswal&label=Visitor+Number&style=for-the-badge" alt=sparshjaswal/></p>
-<p align="left"> <a href="https://twitter.com/sparshjaswal" target="blank"><img src="https://img.shields.io/twitter/follow/sparshjaswal?logo=twitter&style=for-the-badge" alt="sparshjaswal" /></a></p>
 
 - 📚️ I’m currently learning **DevOps**
 
