@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Nirvana can be attained by listening to music**.
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left"><a href="https://linkedin.com/in/sparshjaswal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sparshjaswal" /></a></p> -->
+<p align="left"><a href="https://linkedin.com/in/sparshjaswal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sparshjaswal" /></a></p>
 <p align="left"><a href="https://www.youtube.com/channel/UC_7eIlO6E0Y6GwwzjGzQJ9g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="sparshjaswal" /></a></p>
 <br/>
 
