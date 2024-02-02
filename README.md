@@ -5,7 +5,7 @@
 
 - 📚️ I’m currently learning **DevOps**
 
-- 💬 Ask me anything about **Javascript, TypeScript, Node, React**
+- 💬 Ask me anything about **Javascript, TypeScript, Node, React, GraphQL**
 
 - 📫 How to reach me 👉️ **jaswalsparsh@gmail.com**
 
