@@ -3,7 +3,7 @@
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sparshjaswal&label=Visitor+Number&style=for-the-badge" alt=sparshjaswal/></p>
 
-- 📚️ I’m currently learning **DevOps**
+- 📚️ I’m currently learning **Cloud Technologies**
 
 - 💬 Ask me anything about **Javascript, TypeScript, Node, React, GraphQL**
 
