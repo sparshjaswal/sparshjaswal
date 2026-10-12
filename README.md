@@ -1,32 +1,40 @@
-<h1 align="center">Hi 👋, I'm SPARSH JASWAL</h1>
-<h3 align="center"><b>Full-Stack Developer</b></h3>
-<br/>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sparshjaswal&label=Visitor+Number&style=for-the-badge" alt="sparshjaswal"/>
-</p>
+# Sparsh Jaswal
 
-### About Me
-- 🌐 Experienced in building scalable solutions across **cloud-native architectures**, with a strong focus on **performance optimization**, **cost efficiency**, and **high availability**.
-- 📚 Currently expanding my expertise in **Cloud Technologies** and **Architecture Best Practices**.
-- 💬 Open to discussions about **software architecture, performance optimization**, and **best coding practices**.
-- 📫 Reach me at **<a href="mailto:jaswalsparsh@gmail.com">jaswalsparsh@gmail.com</a>** for collaborations or inquiries.
+**Full-stack engineer · React, TypeScript, Node.js & Azure**  
+Previously Lead Experience Engineer at **Publicis Sapient** · Noida, India
 
-### Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/sparshjaswal" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sparshjaswal LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC_7eIlO6E0Y6GwwzjGzQJ9g" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="sparshjaswal YouTube" />
-  </a>
-</p>
-<br/>
+I build enterprise applications with a focus on frontend architecture, application performance, and reliable cloud services. My work spans hands-on implementation, architecture reviews, and engineering mentorship, with 10 years of experience across web and mobile products.
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparshjaswal&show_icons=true&locale=en)
+[Portfolio](https://sparshjaswal.github.io/) · [LinkedIn](https://www.linkedin.com/in/sparshjaswal/) · [Resume](https://sparshjaswal.github.io/Sparsh_Jaswal_Resume.pdf) · [Email](mailto:jaswalsparsh@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sparshjaswal&show_icons=true&locale=en&layout=compact)
+## Selected professional work
 
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Cloud cost optimization at Publicis Sapient:** reduced Azure Cosmos DB costs by approximately **60%** through Gremlin query optimization, improved partitioning and data-access patterns, and Redis caching.
+- **Frontend performance at Creospan:** reduced bundle size by **70–80%** through profiling, lazy loading, code splitting, and build improvements. Modernized applications using React micro-frontends and Module Federation.
+- **Internal tooling at Creospan:** built TypeScript and Node.js productivity platforms that reduced operational effort by approximately **70%**.
+- **Technical leadership:** mentored 10+ engineers at Publicis Sapient, led architecture reviews, and supported roadmap planning across distributed teams.
+
+These are outcomes from my professional experience. The public repositories below are separate learning projects and code samples.
+
+## What I work with
+
+| Area | Core tools and practices |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, React Native, Storybook, micro-frontends |
+| Backend | Node.js, NestJS, GraphQL, REST, BFF architecture, authentication |
+| Data and cloud | Azure, Cosmos DB, Redis, PostgreSQL, MongoDB |
+| Delivery and quality | GitHub Actions, Docker, OpenTelemetry, Jest, Playwright |
+
+## Code and learning
+
+- [JavaScript code and unit tests](https://github.com/sparshjaswal/js-code-unit-testing)
+- [String Calculator — TypeScript](https://github.com/sparshjaswal/String-Calculator)
+- [Pokedex — TypeScript](https://github.com/sparshjaswal/pokedex)
+- [LeetCode practice](https://leetcode.com/u/sparshjaswal/)
+- [YouTube — JavaScript problem solving](https://www.youtube.com/@sparshjaswal)
+
+## Let's connect
+
+I'm interested in frontend platforms, full-stack product engineering, and systems that are easier to operate and evolve.
+
+Reach me at **[jaswalsparsh@gmail.com](mailto:jaswalsparsh@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/sparshjaswal/).
